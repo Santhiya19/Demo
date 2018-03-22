@@ -28,7 +28,7 @@
     <table class="table table-striped">
         <thead>
         <tr>
-            <th>Name</th>
+            <th>Name1</th>
             <th>Birth Date</th>
             <th>Type</th>
             <th>Owner</th>
